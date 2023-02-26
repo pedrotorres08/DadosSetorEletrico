@@ -1,2 +1,2 @@
 # DadosSetorEletrico
-Repositório para acesso a bases de dados do setor elétrico no Brasil
+Repositório para acesso às bases de dados do setor elétrico
